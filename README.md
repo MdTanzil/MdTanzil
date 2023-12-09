@@ -1,4 +1,4 @@
-<p align="center"><img height="350" src="cover-01.gif"   alt="mdtanzil" /></p>
+<p align="center"><img height="350" src="Cover002.gif"   alt="mdtanzil" /></p>
 <h1 align="center">Hi 👋, I'm Md  Tanzil</h1>
 <h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=799&color=2786B1&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Software+Engineer;React++Js+Affectionner;Tailwind+Css+Connecurer;Python+Lover" alt="Typing SVG" /></h3>
 
