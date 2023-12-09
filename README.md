@@ -1,4 +1,4 @@
-<p align="center"><img src="cover.gif"   alt="mdtanzil" /></p>
+<p align="center"><img height="350" src="cover-01.gif"   alt="mdtanzil" /></p>
 <h1 align="center">Hi 👋, I'm Md  Tanzil</h1>
 <h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=799&color=2786B1&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Software+Engineer;React++Js+Affectionner;Tailwind+Css+Connecurer;Python+Lover" alt="Typing SVG" /></h3>
 
@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=javascript,react,express,nextjs,py,django,git,tailwind,firebase,html,css,nodejs,linux,bootstrap,nodejs,materialui,mongodb,mysql,vscode" />
   </a>
 </p>
-
+<h3 align="left"> Github Stats: </h3>
 <p><img align="center" src="https://api.githubtrends.io/user/svg/MdTanzil/langs?time_range=one_year&compact=True&theme=bright_lights" alt="mdtanzil" /></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MdTanzil&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 
