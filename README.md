@@ -1,6 +1,6 @@
 <p align="center"><img height="350" src="Cover002.gif"   alt="mdtanzil" /></p>
 <h1 align="center">Hi 👋, I'm Md  Tanzil</h1>
-<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=799&color=2786B1&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Software+Engineer;React++Js+Affectionner;Tailwind+Css+Connecurer;Python+Lover" alt="Typing SVG" /></h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=799&color=2786B1&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Software+Engineer;React++Js+Affectionner;Tailwind+Css+Connoisseur;Python+Lover" alt="Typing SVG" /></h3>
 
 <p>🧑‍💻 A Computer Science grad who loves making cool digital stuff. I'm all about crafting slick websites with HTML5, CSS3, and JavaScript (especially with React.js and Next.js). On the backend, I'm the wizard behind the curtain, using Express.js, MongoDB, Python, and Django to bring everything to life. I'm not just about code – I'm passionate about turning ideas into awesome, user-friendly applications. Let's team up and make something amazing together! 🚀</p>
 
