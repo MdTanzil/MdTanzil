@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtanzil&label=Profile%20views&color=0e75b6&style=flat" alt="mdtanzil" /> </p>
 
-- 🌱 I’m currently learning **Next Js, MUI , Express**
+- 🌱 I’m currently learning **Next Js, MUI , Django REST Framework
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
