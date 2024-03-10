@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next Js, MUI , Django REST Framework
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Frontend Projects** Or Django Projects
 
 - 💬 Ask me about **React, Vanilla JavaScript, Python, Django, Tailwind CSS, Daisy UI**
 
